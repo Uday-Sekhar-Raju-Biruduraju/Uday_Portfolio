@@ -485,7 +485,7 @@ background: radial-gradient(
 .skills {
   min-height: 60vh;
   /* background: linear-gradient(to bottom, #57059e, #4a00e0); */
-  background: radial-gradient(
+background: radial-gradient(
   circle at right,
   rgba(128, 0, 128, 0.06) 0%,
   #0f0216 40%,
