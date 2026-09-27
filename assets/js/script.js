@@ -90,7 +90,7 @@ document.addEventListener("visibilitychange", function () {
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Full Stack Java Developer"],
+    strings: ["Java Backend Developer"],
     loop: true,
     typeSpeed: 60,
     backSpeed: 30,
